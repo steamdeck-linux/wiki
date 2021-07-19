@@ -6,4 +6,14 @@ Creation-Date: 2021-07-19T19:57:47+09:30
 
 This wiki will be designed in a Zim desktop wiki, until such time that a better alternative is found (maybe a mediawiki can be configured).
 
-For now, check out the github issues for what needs doing.
+For now, guides should be in a fairly simple format. Topical headings, then images with descriptive captions.
+[[https://flameshot.org/|Flameshot]] is really useful for making good screenshots.
+
+Zim automatically adds a heading when making a new page. It also adds a created on date stamp, which isn't needed and should be removed.
+Headings can be set with keyboard shortcuts "Ctrl + 1 through 5".
+
+Page headings are Ctrl + 1, or Heading 1 in the Format menu.
+Sub headings are Ctrl + 4, or Heading 4.
+
+You can preview the Wiki in your browser, by going to Tools > Start Web Server.
+I would advise picking the template "ZeroFiveEight".

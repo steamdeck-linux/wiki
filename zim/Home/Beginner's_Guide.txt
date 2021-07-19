@@ -9,7 +9,6 @@ Creation-Date: 2021-07-18T23:45:03+09:30
 Desktop tips and tricks
 	- middle clicking applets
 	- middle click paste
-	- using the kickoff menu
 
 Using the file manager
 	- dolphin vs file explorer
