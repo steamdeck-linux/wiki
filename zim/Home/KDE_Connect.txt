@@ -1,0 +1,28 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+
+====== KDE Connect ======
+KDE Connect allows you to integrate your Android phone with your Plasma desktop. You can access the files for both, send and receive notifications, use media/remote control and much more.
+
+To get started simply install the Android app "KDE Connect" from Google Play or F-Droid.
+{{KDEConnect_GooglePlay.jpg}}
+{{KDEConnect_FDroid.jpg}}
+
+Once you open the app on your phone you can tap your desktop from the list.
+{{KDEConnect_Devices.jpg}}
+
+Then tap "Request Pairing".
+{{KDEConnect_RequestPairing.jpg}}
+
+Now you should get a notification on your Plasma desktop. Accept the pairing request and now you are ready to go!
+{{KDEConnect_PairingRequestNotification.png}}
+
+When you click the KDE Connect icon in the system tray your phone shows up. You can drag files to it to send it to your phone.
+{{KDEConnect_FileTransfer.png}}
+
+The hamburger menu offers some additional options.
+{{KDEConnect_HamburgerMenu.png}}
+
+The android app has a lot more functions. Enjoy using some of the best integration between phone and desktop!
+{{KDEConnect_AndroidFunctions.jpg}}
+{{KDEConnect_AndroidNotification.jpg}}
