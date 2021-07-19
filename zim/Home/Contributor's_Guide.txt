@@ -1,0 +1,9 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-07-19T19:57:47+09:30
+
+====== Contributor's Guide ======
+
+This wiki will be designed in a Zim desktop wiki, until such time that a better alternative is found (maybe a mediawiki can be configured).
+
+For now, check out the github issues for what needs doing.

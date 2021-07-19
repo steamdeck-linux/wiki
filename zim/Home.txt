@@ -1,0 +1,17 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-07-18T23:28:17+09:30
+
+====== Home ======
+Welcome to the Steam Deck Desktop Wiki
+
+This wiki aims to be a useful resource for those that want to explore the desktop side of the Steam Deck.
+This wiki is developed my members of the Steam Deck and Linux communities, and is not affiliated with Valve, Arch Linux, or KDE in any way.
+This wiki is unofficial, links to official documentation and sources on the [[Home:Important Links|Important Links]] page.
+
+If you are a beginner with Linux, or SteamOS, check out our [[Home:Beginner's Guide|Beginner's Guide]].
+If you want to learn more about customising your Steam Deck, check out the [[Home:Customisations Portal|Customisations Portal]].
+If you know your way around Linux, and want to contribute to the wiki, check out our [[Home:Contributor's Guide|Contributor's Guide]].
+
+
+
