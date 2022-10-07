@@ -1,0 +1,28 @@
+site_name: SteamDeck Linux
+site_url: https://wiki.steamdecklinux.com
+repo_name: steamdeck-linux/wiki
+repo_url: https://github.com/steamdeck-linux/wiki
+theme:
+    name: material
+    logo: assets/icon.svg
+    favicon: assets/favicon.png
+    palette:
+      - media: "(prefers-color-scheme: light)"
+        scheme: breeze
+        toggle:
+          icon: material/weather-night
+          name: Switch to dark mode
+      - media: "(prefers-color-scheme: dark)"
+        scheme: breeze-dark
+        toggle:
+          icon: material/weather-sunny
+          name: Switch to light mode
+    features:
+      - navigation.instant
+      - navigation.tracking
+plugins:
+  - search
+  - social
+  - tags
+extra_css:
+  - stylesheets/extra.css
